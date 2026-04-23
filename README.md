@@ -7,3 +7,4 @@ sdf
 
 Bild
 
+<img width="1121" height="781" alt="Bevölkerungsdichte" src="https://github.com/user-attachments/assets/361982bf-fdc4-4801-99c2-bdbe87735374" />
